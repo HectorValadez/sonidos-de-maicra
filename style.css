@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image: url(fondo\ de\ noche.gif);
+    background-size: cover;
+    color: white !important;
+    font-family: 'Silkscreen', cursive !important;
+}
+img{
+    height: 300px;
+}
+#cat{
+    max-width: 250px;
+    height: auto;
+}
+button{
+    background-color: black;
+}
+#garfield{
+display: flex;
+align-items: center;
+justify-content: center;
+}
